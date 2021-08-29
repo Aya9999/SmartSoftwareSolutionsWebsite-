@@ -1,0 +1,66 @@
+#great-caroussel;
+	content: '';
+	clear: both;
+}
+
+#great-caroussels .great-caroussel {
+	width: 340px;
+	display: inline-block;
+	margin: 5px;
+	background: #ddd;
+	padding: 5px;
+}
+
+#great-caroussels img.remove, #great-caroussel img.remove, #great-caroussel li img.thumbnail {
+	cursor: pointer;
+}
+
+#great-caroussel li img.thumbnail {
+	height: 100%;
+}
+
+#great-caroussel li {
+	float: left;
+	position: relative;
+	padding: 10px;
+}
+
+#great-caroussel li.opened, #great-caroussel li .form_edit_gc_img {
+	background: #ccc;
+}
+
+#great-caroussel li .form_edit_gc_img {
+	padding: 10px;
+	z-index: 100;
+	display: none;
+	position: absolute;
+	top: 290px;
+	left: 0;
+}
+
+#great-caroussel li img.loading {
+	display: none;
+}
+
+#form_new_gc label, .gc_form label {
+	display: inline-block;
+	width: 120px;
+	vertical-align: top;
+}
+
+.gc_form input[type="text"] {
+	width: 150px;
+}
+
+#form_new_gc input[type=text], #form_new_gc textarea, #form_new_gc select {
+	width: 200px;
+}
+
+.form_edit_gc_img label {
+	display: block;
+	width: 100%;
+}
+
+.form_edit_gc_img input[type=text], .form_edit_gc_img textarea {
+	width: 100%;
+}

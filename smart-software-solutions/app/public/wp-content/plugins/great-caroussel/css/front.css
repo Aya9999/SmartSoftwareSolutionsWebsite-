@@ -1,0 +1,30 @@
+.great_caroussel {
+	overflow: hidden;
+	position: relative;
+	padding: 40px;
+	box-sizing: border-box;
+}
+.great_caroussel .rotator {
+	position: relative;
+	transition: all 2s;
+}
+.great_caroussel .content {
+	width: 25%;
+	height: 150px;
+	position: absolute;
+	top: calc(50% - 75px);
+	left: calc(50% - 12.5%);
+}
+.great_caroussel .content * {
+	max-width: 100%;
+}
+.great_caroussel .prev {
+	position: absolute;
+	bottom: 0;
+	left: calc(50% - 48px);
+}
+.great_caroussel .next {
+	position: absolute;
+	bottom: 0;
+	right: calc(50% - 48px);
+}
