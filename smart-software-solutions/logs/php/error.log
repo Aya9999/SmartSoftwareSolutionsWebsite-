@@ -1,0 +1,200 @@
+[29-Aug-2021 05:42:54 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-customize-manager.php on line 1544
+[29-Aug-2021 05:42:54 UTC] PHP Stack trace:
+[29-Aug-2021 05:42:54 UTC] PHP   1. {main}() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\customize.php:0
+[29-Aug-2021 05:42:54 UTC] PHP   2. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\customize.php:13
+[29-Aug-2021 05:42:54 UTC] PHP   3. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\admin.php:34
+[29-Aug-2021 05:42:54 UTC] PHP   4. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-load.php:37
+[29-Aug-2021 05:42:54 UTC] PHP   5. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-config.php:77
+[29-Aug-2021 05:42:54 UTC] PHP   6. do_action() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-settings.php:510
+[29-Aug-2021 05:42:54 UTC] PHP   7. WP_Hook->do_action() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\plugin.php:465
+[29-Aug-2021 05:42:54 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-hook.php:310
+[29-Aug-2021 05:42:54 UTC] PHP   9. WP_Customize_Manager->import_theme_starter_content() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-hook.php:286
+[29-Aug-2021 05:42:54 UTC] PHP  10. preg_match() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-customize-manager.php:1544
+[29-Aug-2021 05:42:54 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-customize-manager.php on line 1544
+[29-Aug-2021 05:42:54 UTC] PHP Stack trace:
+[29-Aug-2021 05:42:54 UTC] PHP   1. {main}() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\customize.php:0
+[29-Aug-2021 05:42:54 UTC] PHP   2. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\customize.php:13
+[29-Aug-2021 05:42:54 UTC] PHP   3. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\admin.php:34
+[29-Aug-2021 05:42:54 UTC] PHP   4. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-load.php:37
+[29-Aug-2021 05:42:54 UTC] PHP   5. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-config.php:77
+[29-Aug-2021 05:42:54 UTC] PHP   6. do_action() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-settings.php:510
+[29-Aug-2021 05:42:54 UTC] PHP   7. WP_Hook->do_action() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\plugin.php:465
+[29-Aug-2021 05:42:54 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-hook.php:310
+[29-Aug-2021 05:42:54 UTC] PHP   9. WP_Customize_Manager->import_theme_starter_content() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-hook.php:286
+[29-Aug-2021 05:42:54 UTC] PHP  10. preg_match() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-customize-manager.php:1544
+[29-Aug-2021 05:42:54 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-customize-manager.php on line 1544
+[29-Aug-2021 05:42:54 UTC] PHP Stack trace:
+[29-Aug-2021 05:42:54 UTC] PHP   1. {main}() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\customize.php:0
+[29-Aug-2021 05:42:54 UTC] PHP   2. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\customize.php:13
+[29-Aug-2021 05:42:54 UTC] PHP   3. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\admin.php:34
+[29-Aug-2021 05:42:54 UTC] PHP   4. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-load.php:37
+[29-Aug-2021 05:42:54 UTC] PHP   5. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-config.php:77
+[29-Aug-2021 05:42:54 UTC] PHP   6. do_action() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-settings.php:510
+[29-Aug-2021 05:42:54 UTC] PHP   7. WP_Hook->do_action() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\plugin.php:465
+[29-Aug-2021 05:42:54 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-hook.php:310
+[29-Aug-2021 05:42:54 UTC] PHP   9. WP_Customize_Manager->import_theme_starter_content() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-hook.php:286
+[29-Aug-2021 05:42:54 UTC] PHP  10. preg_match() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-customize-manager.php:1544
+[29-Aug-2021 05:42:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-customize-manager.php:1544) in C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\includes\misc.php on line 1221
+[29-Aug-2021 05:42:55 UTC] PHP Stack trace:
+[29-Aug-2021 05:42:55 UTC] PHP   1. {main}() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\customize.php:0
+[29-Aug-2021 05:42:55 UTC] PHP   2. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\customize.php:13
+[29-Aug-2021 05:42:55 UTC] PHP   3. do_action() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\admin.php:169
+[29-Aug-2021 05:42:55 UTC] PHP   4. WP_Hook->do_action() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\plugin.php:465
+[29-Aug-2021 05:42:55 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-hook.php:310
+[29-Aug-2021 05:42:55 UTC] PHP   6. wp_admin_headers() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-hook.php:286
+[29-Aug-2021 05:42:55 UTC] PHP   7. header() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\includes\misc.php:1221
+[29-Aug-2021 05:42:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-customize-manager.php:1544) in C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\option.php on line 947
+[29-Aug-2021 05:42:55 UTC] PHP Stack trace:
+[29-Aug-2021 05:42:55 UTC] PHP   1. {main}() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\customize.php:0
+[29-Aug-2021 05:42:55 UTC] PHP   2. wp_user_settings() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\customize.php:128
+[29-Aug-2021 05:42:55 UTC] PHP   3. setcookie() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\option.php:947
+[29-Aug-2021 05:42:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-customize-manager.php:1544) in C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\option.php on line 948
+[29-Aug-2021 05:42:55 UTC] PHP Stack trace:
+[29-Aug-2021 05:42:55 UTC] PHP   1. {main}() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\customize.php:0
+[29-Aug-2021 05:42:55 UTC] PHP   2. wp_user_settings() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\customize.php:128
+[29-Aug-2021 05:42:55 UTC] PHP   3. setcookie() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\option.php:948
+[29-Aug-2021 05:43:50 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-customize-manager.php on line 1544
+[29-Aug-2021 05:43:50 UTC] PHP Stack trace:
+[29-Aug-2021 05:43:50 UTC] PHP   1. {main}() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\customize.php:0
+[29-Aug-2021 05:43:50 UTC] PHP   2. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\customize.php:13
+[29-Aug-2021 05:43:50 UTC] PHP   3. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\admin.php:34
+[29-Aug-2021 05:43:50 UTC] PHP   4. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-load.php:37
+[29-Aug-2021 05:43:50 UTC] PHP   5. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-config.php:77
+[29-Aug-2021 05:43:50 UTC] PHP   6. do_action() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-settings.php:510
+[29-Aug-2021 05:43:50 UTC] PHP   7. WP_Hook->do_action() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\plugin.php:465
+[29-Aug-2021 05:43:50 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-hook.php:310
+[29-Aug-2021 05:43:50 UTC] PHP   9. WP_Customize_Manager->import_theme_starter_content() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-hook.php:286
+[29-Aug-2021 05:43:50 UTC] PHP  10. preg_match() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-customize-manager.php:1544
+[29-Aug-2021 05:43:50 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-customize-manager.php on line 1544
+[29-Aug-2021 05:43:50 UTC] PHP Stack trace:
+[29-Aug-2021 05:43:50 UTC] PHP   1. {main}() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\customize.php:0
+[29-Aug-2021 05:43:50 UTC] PHP   2. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\customize.php:13
+[29-Aug-2021 05:43:50 UTC] PHP   3. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\admin.php:34
+[29-Aug-2021 05:43:50 UTC] PHP   4. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-load.php:37
+[29-Aug-2021 05:43:50 UTC] PHP   5. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-config.php:77
+[29-Aug-2021 05:43:50 UTC] PHP   6. do_action() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-settings.php:510
+[29-Aug-2021 05:43:50 UTC] PHP   7. WP_Hook->do_action() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\plugin.php:465
+[29-Aug-2021 05:43:50 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-hook.php:310
+[29-Aug-2021 05:43:50 UTC] PHP   9. WP_Customize_Manager->import_theme_starter_content() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-hook.php:286
+[29-Aug-2021 05:43:50 UTC] PHP  10. preg_match() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-customize-manager.php:1544
+[29-Aug-2021 05:43:50 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-customize-manager.php on line 1544
+[29-Aug-2021 05:43:50 UTC] PHP Stack trace:
+[29-Aug-2021 05:43:50 UTC] PHP   1. {main}() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\customize.php:0
+[29-Aug-2021 05:43:50 UTC] PHP   2. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\customize.php:13
+[29-Aug-2021 05:43:50 UTC] PHP   3. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\admin.php:34
+[29-Aug-2021 05:43:50 UTC] PHP   4. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-load.php:37
+[29-Aug-2021 05:43:50 UTC] PHP   5. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-config.php:77
+[29-Aug-2021 05:43:50 UTC] PHP   6. do_action() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-settings.php:510
+[29-Aug-2021 05:43:50 UTC] PHP   7. WP_Hook->do_action() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\plugin.php:465
+[29-Aug-2021 05:43:50 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-hook.php:310
+[29-Aug-2021 05:43:50 UTC] PHP   9. WP_Customize_Manager->import_theme_starter_content() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-hook.php:286
+[29-Aug-2021 05:43:50 UTC] PHP  10. preg_match() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-customize-manager.php:1544
+[29-Aug-2021 05:43:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-customize-manager.php:1544) in C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\includes\misc.php on line 1221
+[29-Aug-2021 05:43:51 UTC] PHP Stack trace:
+[29-Aug-2021 05:43:51 UTC] PHP   1. {main}() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\customize.php:0
+[29-Aug-2021 05:43:51 UTC] PHP   2. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\customize.php:13
+[29-Aug-2021 05:43:51 UTC] PHP   3. do_action() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\admin.php:169
+[29-Aug-2021 05:43:51 UTC] PHP   4. WP_Hook->do_action() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\plugin.php:465
+[29-Aug-2021 05:43:51 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-hook.php:310
+[29-Aug-2021 05:43:51 UTC] PHP   6. wp_admin_headers() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-hook.php:286
+[29-Aug-2021 05:43:51 UTC] PHP   7. header() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\includes\misc.php:1221
+[29-Aug-2021 05:43:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-customize-manager.php:1544) in C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\option.php on line 947
+[29-Aug-2021 05:43:51 UTC] PHP Stack trace:
+[29-Aug-2021 05:43:51 UTC] PHP   1. {main}() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\customize.php:0
+[29-Aug-2021 05:43:51 UTC] PHP   2. wp_user_settings() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\customize.php:128
+[29-Aug-2021 05:43:51 UTC] PHP   3. setcookie() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\option.php:947
+[29-Aug-2021 05:43:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-customize-manager.php:1544) in C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\option.php on line 948
+[29-Aug-2021 05:43:51 UTC] PHP Stack trace:
+[29-Aug-2021 05:43:51 UTC] PHP   1. {main}() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\customize.php:0
+[29-Aug-2021 05:43:51 UTC] PHP   2. wp_user_settings() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\customize.php:128
+[29-Aug-2021 05:43:51 UTC] PHP   3. setcookie() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\option.php:948
+[29-Aug-2021 06:02:37 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-customize-manager.php on line 1544
+[29-Aug-2021 06:02:37 UTC] PHP Stack trace:
+[29-Aug-2021 06:02:37 UTC] PHP   1. {main}() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\customize.php:0
+[29-Aug-2021 06:02:37 UTC] PHP   2. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\customize.php:13
+[29-Aug-2021 06:02:37 UTC] PHP   3. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\admin.php:34
+[29-Aug-2021 06:02:37 UTC] PHP   4. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-load.php:37
+[29-Aug-2021 06:02:37 UTC] PHP   5. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-config.php:77
+[29-Aug-2021 06:02:37 UTC] PHP   6. do_action() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-settings.php:510
+[29-Aug-2021 06:02:37 UTC] PHP   7. WP_Hook->do_action() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\plugin.php:465
+[29-Aug-2021 06:02:37 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-hook.php:310
+[29-Aug-2021 06:02:37 UTC] PHP   9. WP_Customize_Manager->import_theme_starter_content() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-hook.php:286
+[29-Aug-2021 06:02:37 UTC] PHP  10. preg_match() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-customize-manager.php:1544
+[29-Aug-2021 06:02:37 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-customize-manager.php on line 1544
+[29-Aug-2021 06:02:37 UTC] PHP Stack trace:
+[29-Aug-2021 06:02:37 UTC] PHP   1. {main}() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\customize.php:0
+[29-Aug-2021 06:02:37 UTC] PHP   2. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\customize.php:13
+[29-Aug-2021 06:02:37 UTC] PHP   3. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\admin.php:34
+[29-Aug-2021 06:02:37 UTC] PHP   4. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-load.php:37
+[29-Aug-2021 06:02:37 UTC] PHP   5. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-config.php:77
+[29-Aug-2021 06:02:37 UTC] PHP   6. do_action() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-settings.php:510
+[29-Aug-2021 06:02:37 UTC] PHP   7. WP_Hook->do_action() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\plugin.php:465
+[29-Aug-2021 06:02:37 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-hook.php:310
+[29-Aug-2021 06:02:37 UTC] PHP   9. WP_Customize_Manager->import_theme_starter_content() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-hook.php:286
+[29-Aug-2021 06:02:37 UTC] PHP  10. preg_match() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-customize-manager.php:1544
+[29-Aug-2021 06:02:37 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-customize-manager.php on line 1544
+[29-Aug-2021 06:02:37 UTC] PHP Stack trace:
+[29-Aug-2021 06:02:37 UTC] PHP   1. {main}() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\customize.php:0
+[29-Aug-2021 06:02:37 UTC] PHP   2. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\customize.php:13
+[29-Aug-2021 06:02:37 UTC] PHP   3. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\admin.php:34
+[29-Aug-2021 06:02:37 UTC] PHP   4. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-load.php:37
+[29-Aug-2021 06:02:37 UTC] PHP   5. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-config.php:77
+[29-Aug-2021 06:02:37 UTC] PHP   6. do_action() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-settings.php:510
+[29-Aug-2021 06:02:37 UTC] PHP   7. WP_Hook->do_action() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\plugin.php:465
+[29-Aug-2021 06:02:37 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-hook.php:310
+[29-Aug-2021 06:02:37 UTC] PHP   9. WP_Customize_Manager->import_theme_starter_content() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-hook.php:286
+[29-Aug-2021 06:02:37 UTC] PHP  10. preg_match() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-customize-manager.php:1544
+[29-Aug-2021 06:02:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-customize-manager.php:1544) in C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\includes\misc.php on line 1221
+[29-Aug-2021 06:02:37 UTC] PHP Stack trace:
+[29-Aug-2021 06:02:37 UTC] PHP   1. {main}() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\customize.php:0
+[29-Aug-2021 06:02:37 UTC] PHP   2. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\customize.php:13
+[29-Aug-2021 06:02:37 UTC] PHP   3. do_action() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\admin.php:169
+[29-Aug-2021 06:02:37 UTC] PHP   4. WP_Hook->do_action() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\plugin.php:465
+[29-Aug-2021 06:02:37 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-hook.php:310
+[29-Aug-2021 06:02:37 UTC] PHP   6. wp_admin_headers() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-hook.php:286
+[29-Aug-2021 06:02:37 UTC] PHP   7. header() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\includes\misc.php:1221
+[29-Aug-2021 06:06:30 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-customize-manager.php on line 1544
+[29-Aug-2021 06:06:30 UTC] PHP Stack trace:
+[29-Aug-2021 06:06:30 UTC] PHP   1. {main}() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\customize.php:0
+[29-Aug-2021 06:06:30 UTC] PHP   2. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\customize.php:13
+[29-Aug-2021 06:06:30 UTC] PHP   3. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\admin.php:34
+[29-Aug-2021 06:06:30 UTC] PHP   4. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-load.php:37
+[29-Aug-2021 06:06:30 UTC] PHP   5. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-config.php:77
+[29-Aug-2021 06:06:30 UTC] PHP   6. do_action() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-settings.php:510
+[29-Aug-2021 06:06:30 UTC] PHP   7. WP_Hook->do_action() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\plugin.php:465
+[29-Aug-2021 06:06:30 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-hook.php:310
+[29-Aug-2021 06:06:30 UTC] PHP   9. WP_Customize_Manager->import_theme_starter_content() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-hook.php:286
+[29-Aug-2021 06:06:30 UTC] PHP  10. preg_match() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-customize-manager.php:1544
+[29-Aug-2021 06:06:30 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-customize-manager.php on line 1544
+[29-Aug-2021 06:06:30 UTC] PHP Stack trace:
+[29-Aug-2021 06:06:30 UTC] PHP   1. {main}() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\customize.php:0
+[29-Aug-2021 06:06:30 UTC] PHP   2. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\customize.php:13
+[29-Aug-2021 06:06:30 UTC] PHP   3. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\admin.php:34
+[29-Aug-2021 06:06:30 UTC] PHP   4. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-load.php:37
+[29-Aug-2021 06:06:30 UTC] PHP   5. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-config.php:77
+[29-Aug-2021 06:06:30 UTC] PHP   6. do_action() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-settings.php:510
+[29-Aug-2021 06:06:30 UTC] PHP   7. WP_Hook->do_action() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\plugin.php:465
+[29-Aug-2021 06:06:30 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-hook.php:310
+[29-Aug-2021 06:06:30 UTC] PHP   9. WP_Customize_Manager->import_theme_starter_content() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-hook.php:286
+[29-Aug-2021 06:06:30 UTC] PHP  10. preg_match() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-customize-manager.php:1544
+[29-Aug-2021 06:06:30 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-customize-manager.php on line 1544
+[29-Aug-2021 06:06:30 UTC] PHP Stack trace:
+[29-Aug-2021 06:06:30 UTC] PHP   1. {main}() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\customize.php:0
+[29-Aug-2021 06:06:30 UTC] PHP   2. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\customize.php:13
+[29-Aug-2021 06:06:30 UTC] PHP   3. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\admin.php:34
+[29-Aug-2021 06:06:30 UTC] PHP   4. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-load.php:37
+[29-Aug-2021 06:06:30 UTC] PHP   5. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-config.php:77
+[29-Aug-2021 06:06:30 UTC] PHP   6. do_action() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-settings.php:510
+[29-Aug-2021 06:06:30 UTC] PHP   7. WP_Hook->do_action() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\plugin.php:465
+[29-Aug-2021 06:06:30 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-hook.php:310
+[29-Aug-2021 06:06:30 UTC] PHP   9. WP_Customize_Manager->import_theme_starter_content() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-hook.php:286
+[29-Aug-2021 06:06:30 UTC] PHP  10. preg_match() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-customize-manager.php:1544
+[29-Aug-2021 06:06:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-customize-manager.php:1544) in C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\includes\misc.php on line 1221
+[29-Aug-2021 06:06:31 UTC] PHP Stack trace:
+[29-Aug-2021 06:06:31 UTC] PHP   1. {main}() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\customize.php:0
+[29-Aug-2021 06:06:31 UTC] PHP   2. require_once() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\customize.php:13
+[29-Aug-2021 06:06:31 UTC] PHP   3. do_action() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\admin.php:169
+[29-Aug-2021 06:06:31 UTC] PHP   4. WP_Hook->do_action() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\plugin.php:465
+[29-Aug-2021 06:06:31 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-hook.php:310
+[29-Aug-2021 06:06:31 UTC] PHP   6. wp_admin_headers() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-includes\class-wp-hook.php:286
+[29-Aug-2021 06:06:31 UTC] PHP   7. header() C:\Users\HP\Local Sites\smart-software-solutions\app\public\wp-admin\includes\misc.php:1221
